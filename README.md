@@ -42,7 +42,7 @@
       <p>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,git,github,gitlab,docker,cmake&perline=9" />
-        </a>s
+        </a>
       </p>
     </td>
     <td valign="top" width="50%">
