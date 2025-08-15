@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&vCenter=true&width=435&lines=Hello,+I'm+Fanfan!+👋" alt="Typing SVG" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://count.getloli.com/get/@fanfan187?theme=love-and-deepspace" alt="Visitor Counter"  width="320"/>
+  <img src="https://count.getloli.com/get/@fanfan187?theme=love-and-deepspace" alt="Visitor Counter"  width="280"/>
 </p>
 
 <hr>
