@@ -58,7 +58,7 @@
 
 ### 📫 How to Reach Me
 
-* 📧 **Email:** [fanfan187@fy.cn](mailto:fanfan187@fy.cn)
+* 📧 **Email:** [fy@fanfan187.cn](mailto:fy@fanfan187.cn)
 * 🐧 **QQ:** 2238194270
 * ✈️ **Telegram:** [@西格玛](https://t.me/西格玛)
 
