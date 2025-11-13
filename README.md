@@ -11,7 +11,8 @@
 * 💞️ I'm a passionate **software developer** with a great love for coding and technology.
 * 😋 My expertise lies in software development, with a keen interest in exploring the fields of **Cybersecurity** and **Big Data**.
 * 📈 I firmly believe in the power of collaboration: <i>"Talent wins games, but teamwork and intelligence win championships."</i>
-* 🤝 I'm always open to connecting with like-minded people. Let's learn and grow together! 
+* 🤝 I'm always open to connecting with like-minded people. Let's learn and grow together!
+* 🅱️ This is my blog ![杜松子酒](https://blog.fanfan187.cn). Welcome to visit and exchange links.
 
 <br>
 
