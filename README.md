@@ -13,7 +13,6 @@
 * 📈 I firmly believe in the power of collaboration: <i>"Talent wins games, but teamwork and intelligence win championships."</i>
 * 🤝 I'm always open to connecting with like-minded people. Let's learn and grow together!
 * 😝 This is my blog: [杜松子酒](https://blog.fanfan187.cn). Welcome to visit and exchange links.
-* 
 <br>
 
 ### 🛠️ My Tech Stack
