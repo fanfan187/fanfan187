@@ -60,6 +60,6 @@
 
 * 📧 **Email:** [fy@fanfan187.cn](mailto:fy@fanfan187.cn)
 * 🐧 **QQ:** 2238194270
-* ✈️ **Telegram:** [@西格玛](https://t.me/西格玛)
+* ✈️ **Telegram:** [@Xigema](https://t.me/Xigema)
 
 <br>
